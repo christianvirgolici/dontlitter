@@ -1,6 +1,9 @@
-body{padding: 5em;}
+body{padding: 5em;
+     background-color: #3A6B63;
+}
 
 h1,h2{text-align: center;}
+{color: #3A6B63}
 
 p{width:750px;}
 /*The next rule centers and spaces the media*/
